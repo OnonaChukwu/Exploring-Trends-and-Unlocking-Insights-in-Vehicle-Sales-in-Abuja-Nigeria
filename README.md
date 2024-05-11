@@ -1,5 +1,4 @@
-# Cars_sales_in_Abuja_Nigeria
-Exploring Trends and Unlocking Insights in Vehicle Sales in Abuja, Nigeria
+# Exploring Trends and Unlocking Insights in Vehicle Sales in Abuja, Nigeria
 ![image](https://github.com/OnonaChukwu/Cars_sales_in_Abuja_Nigeria/assets/155753951/bb6b2f78-9f83-4f33-9c73-6f5e2c92848e)
 
 ## Introduction and Background
